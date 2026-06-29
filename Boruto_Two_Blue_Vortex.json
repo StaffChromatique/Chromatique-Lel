@@ -1,0 +1,41 @@
+{
+  "title": "Boruto - Two Blue Vortex",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "001": {
+      "title": "Boruto",
+      "last_updated": "1782724619",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7kpromm48"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "Arbres",
+      "last_updated": "1782724610",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7lpk9goyx"
+      },
+      "volume": "01"
+    },
+    "003": {
+      "title": "Uzuhiko",
+      "last_updated": "1782724608",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4jp39ke48"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "L'éveil",
+      "last_updated": "1782724613",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy25eda8yl"
+      },
+      "volume": "01"
+    }
+  }
+}
