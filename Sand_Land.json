@@ -10,7 +10,7 @@
       "volume": "01",
       "last_updated": "1775854896",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlpj637j"
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7bzxzqm75"
       }
     },
     "002": {
@@ -18,7 +18,7 @@
       "volume": "01",
       "last_updated": "1775854896",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/pg732ojzz4r"
+        "Chromatique": "/proxy/api/imgchest/chapter/agyv8e8rb48"
       }
     },
     "003": {
@@ -26,31 +26,31 @@
       "volume": "01",
       "last_updated": "1775854896",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xolwj4l"
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zvkvn5yj"
       }
     },
     "004": {
-      "title": "Le réservoir volant",
+      "title": "La citerne volante",
       "volume": "01",
       "last_updated": "1775854896",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ej7mje2gb7d"
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pmzm837o"
       }
     },
     "005": {
-      "title": "La vérité sur un sombre secret",
+      "title": "Vérités nocturnes",
       "volume": "01",
       "last_updated": "1775854896",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3ndpeyp"
+        "Chromatique": "/proxy/api/imgchest/chapter/lqye5p5mmyd"
       }
     },
     "006": {
-      "title": "Le porte-bonheur de Lao",
+      "title": "Le porte-bonheur de Rao",
       "volume": "01",
       "last_updated": "1775854896",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/md7odbj6dyp"
+        "Chromatique": "/proxy/api/imgchest/chapter/9249bjb3byn"
       }
     },
     "007": {
@@ -58,15 +58,15 @@
       "volume": "01",
       "last_updated": "1775854896",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/wl7llwmep7x"
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45bdbqn45"
       }
     },
     "008": {
-      "title": "Le général Shiba et le général Ares",
+      "title": "Général Shiva et Général Are",
       "volume": "01",
       "last_updated": "1775854896",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqzl5z4n"
+        "Chromatique": "/proxy/api/imgchest/chapter/md7orjr827p"
       }
     },
     "009": {
@@ -74,47 +74,55 @@
       "volume": "01",
       "last_updated": "1775854896",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/9ryd32pvw7k"
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8klkm2yb"
       }
     },
     "010": {
-      "title": "La fontaine mirage",
+      "title": "La source légendaire",
       "volume": "01",
       "last_updated": "1775854896",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5mwr278"
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yxaga3p4q"
       }
     },
     "011": {
-      "title": "Le mystère de la source",
+      "title": "Le mystère du réservoir",
       "volume": "01",
       "last_updated": "1775854896",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ne7br6x8ny5"
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4g6r6wqyj"
       }
     },
     "012": {
-      "title": "Beelzébub le démon",
+      "title": "Beelzebub le démon",
       "volume": "01",
       "last_updated": "1775854896",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmkdno72"
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4ndld8byn"
       }
     },
     "013": {
-      "title": "Vers la bataille finale",
+      "title": "La fin de la bataille",
       "volume": "01",
       "last_updated": "1775854896",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/n87w8ngzz7x"
+        "Chromatique": "/proxy/api/imgchest/chapter/o24aekejd7l"
       }
     },
-    "013.1": {
-      "title": "Le fleuve",
+    "014": {
+      "title": "La rivière",
       "volume": "01",
       "last_updated": "1775854896",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ej7mje3kn7d"
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w5r5mx7x"
+      }
+    },	
+    "015": {
+      "title": "Les secrets de la naissance de Sand Land",
+      "volume": "01",
+      "last_updated": "1775854896",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846bgbdzyx"
       }
     }
   }
