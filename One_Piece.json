@@ -1,9 +1,9 @@
 {
-  "title": "One Piece - Edition couleur",
+  "title": "One_Piece",
   "description": "Nous sommes à l’ère des pirates ! Luffy, un garçon espiègle, rêve de devenir le roi des pirates en trouvant le «One Piece», un fabuleux et mystérieux trésor. Mais, par mégarde, Luffy a avalé un jour un «fruit magique du démon» qui l’a transformé en homme caoutchouc. Depuis, il est capable de contorsionner son corps élastique dans tous les sens, mais il a perdu la faculté de nager, le comble pour un pirate !\nAu fil d’aventures toujours plus rocambolesques et de rencontres fortuites, Luffy va progressivement composer son équipage et multiplier les amitiés avec les peuples qu’il découvre, tout en affrontant de redoutables ennemis.\n",
   "artist": "Eiichirō Oda",
   "author": "Eiichirō Oda",
-  "cover": "https://cdn.imgchest.com/files/6eb51748c6cb.jpg",
+  "cover": "https://thumb.wikimedia.org/wikipedia/fr/thumb/1/1a/Logo_One_piece.svg/langfr-250px-Logo_One_piece.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
   "chapters": {
     "100": {
       "title": "Et ainsi débuta la légende",
@@ -6925,246 +6925,6 @@
         "Chromatique": "/proxy/api/imgchest/chapter/wl7ll3pqp7x"
       }
     },
-    "965": {
-      "title": "Le complot du clan Kurozumi",
-      "volume": "096",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/md7odepmdyp"
-      }
-    },
-    "966": {
-      "title": "Roger et Barbe Blanche",
-      "volume": "096",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/na7k2dpjq78"
-      }
-    },
-    "967": {
-      "title": "L'aventure de Roger",
-      "volume": "096",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xb5kj4l"
-      }
-    },
-    "968": {
-      "title": "Le retour d'Oden",
-      "volume": "096",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5qpl278"
-      }
-    },
-    "969": {
-      "title": "Sire bouffon",
-      "volume": "096",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ljyqm8pwo72"
-      }
-    },
-    "970": {
-      "title": "Oden VS Kaido",
-      "volume": "096",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ej7mj3pbn7d"
-      }
-    },
-    "971": {
-      "title": "Mise à mort par ébouillantage",
-      "volume": "096",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/lqyewqk8qyd"
-      }
-    },
-    "972": {
-      "title": "Bouillir, tel est le propre du Oden",
-      "volume": "096",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlw2gd7j"
-      }
-    },
-    "973": {
-      "title": "La lignée Kozuki",
-      "volume": "096",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/bp45j2vwqy5"
-      }
-    },
-    "974": {
-      "title": "En route pour l'île d'Onigashima",
-      "volume": "096",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/qe4gz29aj7j"
-      }
-    },
-    "975": {
-      "title": "Le plan de Kinémon",
-      "volume": "097",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ljyqm85vk72"
-      }
-    },
-    "976": {
-      "title": "Permettez-moi de me présenter !!",
-      "volume": "097",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5qkw578"
-      }
-    },
-    "977": {
-      "title": "Stop !",
-      "volume": "097",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/wl7ll3gm67x"
-      }
-    },
-    "978": {
-      "title": "Les Tobi Roppo entrent en scène",
-      "volume": "097",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3jnxn7k"
-      }
-    },
-    "979": {
-      "title": "Problème familial",
-      "volume": "097",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3x5v6yp"
-      }
-    },
-    "980": {
-      "title": "Musique de combat",
-      "volume": "097",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ljyqm8xde72"
-      }
-    },
-    "981": {
-      "title": "Renforts",
-      "volume": "097",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3jmpd7k"
-      }
-    },
-    "982": {
-      "title": "Le choc des insolents",
-      "volume": "097",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ej7mj3v9j7d"
-      }
-    },
-    "983": {
-      "title": "Tonnerre",
-      "volume": "097",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/pg732b6r34r"
-      }
-    },
-    "984": {
-      "title": "Ma bible",
-      "volume": "097",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/n87w8eqlb7x"
-      }
-    },
-    "985": {
-      "title": "Le projet de la \"nouvelle Onigashima\"",
-      "volume": "098",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/pg732bamj4r"
-      }
-    },
-    "986": {
-      "title": "Je m'appelle",
-      "volume": "098",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3j9gl7k"
-      }
-    },
-    "987": {
-      "title": "Les neuf rônins",
-      "volume": "098",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5qplx78"
-      }
-    },
-    "988": {
-      "title": "Désolé pour l'attente",
-      "volume": "098",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/wl7ll3pqq7x"
-      }
-    },
-    "989": {
-      "title": "Je n'ai pas l'impression qu'on va perdre",
-      "volume": "098",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ljyqm8pwn72"
-      }
-    },
-    "990": {
-      "title": "Un soldat isolé",
-      "volume": "098",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/n87w8epkg7x"
-      }
-    },
-    "991": {
-      "title": "Laisse-nous le rejoindre !!",
-      "volume": "098",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3xkqgyp"
-      }
-    },
-    "992": {
-      "title": "Anciens",
-      "volume": "098",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/xny8rqng54b"
-      }
-    },
-    "993": {
-      "title": "Le rêve du pays des Wa",
-      "volume": "098",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/o24ada9w24l"
-      }
-    },
-    "994": {
-      "title": "Mon autre nom est Yamato",
-      "volume": "098",
-      "last_updated": "1775341691",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/a846qlneoyx"
-      }
-    },
     "995": {
       "title": "Le serment de la femme ninja",
       "volume": "099",
@@ -8612,6 +8372,238 @@
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqm8nkx72"
       }
+    },
+    "965": {
+      "title": "ROMANCE DAWN - À l’aube d’une grande aventure",
+      "last_updated": "1791117521",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gnm3br7j"
+      },
+      "volume": "096"
+    },
+    "966": {
+      "title": "Luffy, l'homme au chapeau de paille",
+      "last_updated": "1791117511",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9rydkqd8w4k"
+      },
+      "volume": "096"
+    },
+    "967": {
+      "title": "Zoro le \"chasseur de pirates\"",
+      "last_updated": "1791117513",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7lqa8j64x"
+      },
+      "volume": "096"
+    },
+    "968": {
+      "title": "Morgan, le colonel à la main de fer",
+      "last_updated": "1791117512",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqwab3oy2"
+      },
+      "volume": "096"
+    },
+    "969": {
+      "title": "Le roi des pirates et la fine lame",
+      "last_updated": "1791117510",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7kjaglk48"
+      },
+      "volume": "096"
+    },
+    "970": {
+      "title": "Un premier matelot",
+      "last_updated": "1791117516",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45gmr92y5"
+      },
+      "volume": "096"
+    },
+    "971": {
+      "title": "Des amis",
+      "last_updated": "1791117507",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2kqjvnyl"
+      },
+      "volume": "096"
+    },
+    "972": {
+      "title": "Nami",
+      "last_updated": "1791117520",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx69bo3yq"
+      },
+      "volume": "096"
+    },
+    "973": {
+      "title": "Une fille diabolique",
+      "last_updated": "1791117514",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8aewjo7b"
+      },
+      "volume": "096"
+    },
+    "974": {
+      "title": "Désordre à la taverne",
+      "last_updated": "1791117515",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87wa9boz4x"
+      },
+      "volume": "096"
+    },
+    "975": {
+      "title": "Sauve-qui-peut",
+      "last_updated": "1791117518",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4jlez22y8"
+      },
+      "volume": "097"
+    },
+    "976": {
+      "title": "Un chien",
+      "last_updated": "1791117518",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a84683m2wyx"
+      },
+      "volume": "097"
+    },
+    "977": {
+      "title": "Trésor",
+      "last_updated": "1791117513",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyexdrb34d"
+      },
+      "volume": "097"
+    },
+    "978": {
+      "title": "Sur un coup de tête !",
+      "last_updated": "1791117509",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqwab3ey2"
+      },
+      "volume": "097"
+    },
+    "979": {
+      "title": "Gong",
+      "last_updated": "1791117511",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2kqjvjyl"
+      },
+      "volume": "097"
+    },
+    "980": {
+      "title": "Luffy versus la bande à Baggy !!",
+      "last_updated": "1791117507",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4jlez25y8"
+      },
+      "volume": "097"
+    },
+    "981": {
+      "title": "Question de niveau",
+      "last_updated": "1791117513",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7lqa8jp4x"
+      },
+      "volume": "097"
+    },
+    "982": {
+      "title": "Baggy le clown",
+      "last_updated": "1791117517",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/924962eq24n"
+      },
+      "volume": "097"
+    },
+    "983": {
+      "title": "Le fruit du démon",
+      "last_updated": "1791117516",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zx5bo37j"
+      },
+      "volume": "097"
+    },
+    "985": {
+      "title": "Voleuse à tout prix",
+      "last_updated": "1791117484",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7omakrayp"
+      },
+      "volume": "098"
+    },
+    "986": {
+      "title": "Tous en ville",
+      "last_updated": "1791117509",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mda5qb7d"
+      },
+      "volume": "098"
+    },
+    "987": {
+      "title": "Une faune insolite",
+      "last_updated": "1791117517",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyv5xbo948"
+      },
+      "volume": "098"
+    },
+    "988": {
+      "title": "Le Capitaine Usopp",
+      "last_updated": "1791117508",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyreabwe7p"
+      },
+      "volume": "098"
+    },
+    "989": {
+      "title": "Une vérité qui blesse",
+      "last_updated": "1791117512",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg73edqxz4r"
+      },
+      "volume": "098"
+    },
+    "990": {
+      "title": "Une kyrielle de mensonges",
+      "last_updated": "1791117514",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24a52lb37l"
+      },
+      "volume": "098"
+    },
+    "991": {
+      "title": "Le complot du Capitaine Kuro",
+      "last_updated": "1791117521",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nrvabz7n"
+      },
+      "volume": "098"
+    },
+    "992": {
+      "title": "Fidèle à ses principes",
+      "last_updated": "1791117529",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqwabooy2"
+      },
+      "volume": "098"
+    },
+    "993": {
+      "title": "Attaque au clair de lune",
+      "last_updated": "1791117528",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4jlezb2y8"
+      },
+      "volume": "098"
+    },
+    "994": {
+      "title": "Sur une pente qui glisse",
+      "last_updated": "1791117529",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9rydkqdbw4k"
+      },
+      "volume": "098"
     }
   }
 }
