@@ -1,0 +1,65 @@
+{
+  "title": "Sailor Moon - Edition couleur",
+  "description": "Usagi est une jeune fille de 14 ans comme tant d'autres : elle aime dormir, jouer aux jeux vidéo, elle pleure pour un oui ou pour un non et elle ne se passionne pas pour ses études. Mais un beau jour, elle croise le chemin de Luna, un chat doué de parole qui va la transformer en une jolie justicière : Sailor Moon !",
+  "artist": "Naoko Takeuchi",
+  "author": "Naoko Takeuchi",
+  "cover": "https://cdn.imgchest.com/files/7527a7564a83.jpg",
+  "chapters": {
+    "001": {
+      "title": "Usagi - Sailor Moon",
+      "last_updated": "1791119520",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyexdklk4d"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "Ami - Sailor Mercury",
+      "last_updated": "1791119510",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gnm9qb7j"
+      },
+      "volume": "01"
+    },
+    "003": {
+      "title": "Rei - Sailor Mars",
+      "last_updated": "1791119518",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87wa9pnb4x"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "Masquerade - Le bal masqué",
+      "last_updated": "1791119516",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zx52pv7j"
+      },
+      "volume": "01"
+    },
+    "005": {
+      "title": "Makoto - Sailor Jupiter",
+      "last_updated": "1791119509",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg73edao34r"
+      },
+      "volume": "01"
+    },
+    "006": {
+      "title": "L'homme masqué - Tuxedo Mask",
+      "last_updated": "1791119511",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45gmvogy5"
+      },
+      "volume": "01"
+    },
+    "007": {
+      "title": "Mamoru Chiba - Tuxedo Mask",
+      "last_updated": "1791119521",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8aen6d7b"
+      },
+      "volume": "01"
+    }
+  }
+}
