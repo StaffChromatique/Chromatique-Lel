@@ -1,0 +1,153 @@
+{
+  "title": "Doraemon",
+  "description": "",
+  "artist": "Fujiko F. Fujio",
+  "author": "Fujiko F. Fujio",
+  "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/8479_at_Shau_Kei_Wan_%2820181124143233%29.jpg/250px-8479_at_Shau_Kei_Wan_%2820181124143233%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "chapters": {
+    "017": {
+      "title": "Le “rappel-pain” pour les examens",
+      "last_updated": "1793052347",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pl6pgp4o"
+      },
+      "volume": "02"
+    },
+    "018": {
+      "title": "Robota est amoureuse",
+      "last_updated": "1793052347",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/924989nxmyn"
+      },
+      "volume": "02"
+    },
+    "019": {
+      "title": "Des histoires effrayantes racontées au coin du feu",
+      "last_updated": "1793052346",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4np6ogmyn"
+      },
+      "volume": "02"
+    },
+    "020": {
+      "title": "Le carillon des rêves",
+      "last_updated": "1793052349",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7o2vpzr4p"
+      },
+      "volume": "02"
+    },
+    "021": {
+      "title": "Le jour de ma naissance",
+      "last_updated": "1793052346",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7be39gj75"
+      },
+      "volume": "02"
+    },
+    "022": {
+      "title": "Taro l’honnête",
+      "last_updated": "1793052293",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyv3lbmj78"
+      },
+      "volume": "02"
+    },
+    "023": {
+      "title": "L’étole céleste de Shizuka",
+      "last_updated": "1793052291",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45wnraq45"
+      },
+      "volume": "02"
+    },
+    "024": {
+      "title": "Le miroir aux alouettes",
+      "last_updated": "1793052293",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8g9wb57b"
+      },
+      "volume": "02"
+    },
+    "025": {
+      "title": "Le tissu du temps",
+      "last_updated": "1793052297",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7be3j8j75"
+      },
+      "volume": "02"
+    },
+    "026": {
+      "title": "Le kit pour bien lire les lignes de la main",
+      "last_updated": "1793052292",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24awmlz27l"
+      },
+      "volume": "02"
+    },
+    "027": {
+      "title": "La famille des loups",
+      "last_updated": "1793052293",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yxeqbzq7q"
+      },
+      "volume": "02"
+    },
+    "028": {
+      "title": "Les badges N et S",
+      "last_updated": "1793052317",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87wkjpzg7x"
+      },
+      "volume": "02"
+    },
+    "029": {
+      "title": "Construisons un métro !",
+      "last_updated": "1793052318",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqye8zkjqyd"
+      },
+      "volume": "02"
+    },
+    "030": {
+      "title": "Un champ sur un tapis",
+      "last_updated": "1793052315",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyrq6krg7p"
+      },
+      "volume": "02"
+    },
+    "031": {
+      "title": "Fais passer le rhume à ton voisin !",
+      "last_updated": "1793052316",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg73m8akjyr"
+      },
+      "volume": "02"
+    },
+    "032": {
+      "title": "L’avalanche dans la chambre",
+      "last_updated": "1793052319",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zgr26dyj"
+      },
+      "volume": "02"
+    },
+    "033": {
+      "title": "Le chasseur de dinosaures…",
+      "last_updated": "1793052301",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7o2vk6r4p"
+      },
+      "volume": "02"
+    },
+    "034": {
+      "title": "Comment recevoir une réponse à une lettre qu’on n’a pas envoyée ?...",
+      "last_updated": "1793052294",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846e9mvoyx"
+      },
+      "volume": "02"
+    }
+  }
+}
