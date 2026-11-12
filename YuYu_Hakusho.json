@@ -1,0 +1,121 @@
+{
+  "title": "YuYu Hakusho",
+  "description": "",
+  "artist": "Yoshihiro Togashi",
+  "author": "Yoshihiro Togashi",
+  "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Yu_Yu_Hakusho_logo.png/250px-Yu_Yu_Hakusho_logo.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "chapters": {
+    "001": {
+      "title": "Adieu, monde terrestre !!",
+      "last_updated": "1793065566",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/924989qo2yn"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "L’épreuve vers la résurrection !!",
+      "last_updated": "1793064907",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24awmbp27l"
+      },
+      "volume": "01"
+    },
+    "003": {
+      "title": "Le grand voyage !!",
+      "last_updated": "1793064904",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8g9jx57b"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "Le garçon et son vieux chien !!",
+      "last_updated": "1793064905",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg73m8v9jyr"
+      },
+      "volume": "01"
+    },
+    "005": {
+      "title": "Le Noël de l’année suivante !!",
+      "last_updated": "1793061322",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4ga8bdj4j"
+      },
+      "volume": "01"
+    },
+    "006": {
+      "title": "Le voyage en solitaire !!",
+      "last_updated": "1793061321",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mb6omnyd"
+      },
+      "volume": "01"
+    },
+    "007": {
+      "title": "La promesse !!",
+      "last_updated": "1793061323",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9rydgeb5lyk"
+      },
+      "volume": "01"
+    },
+    "008": {
+      "title": "Une résurrection de courte durée (1re partie) !!",
+      "last_updated": "1793064906",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyrq6ogg7p"
+      },
+      "volume": "01"
+    },
+    "009": {
+      "title": "Une résurrection de courte durée (2e partie) !!",
+      "last_updated": "1793064906",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zgro9dyj"
+      },
+      "volume": "01"
+    },
+    "010": {
+      "title": "Jeux interdits !!",
+      "last_updated": "1793064907",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqye8zb3qyd"
+      },
+      "volume": "01"
+    },
+    "011": {
+      "title": "L’amitié brisée !!",
+      "last_updated": "1793064905",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87wkjo6g7x"
+      },
+      "volume": "01"
+    },
+    "012": {
+      "title": "La main du démon !!",
+      "last_updated": "1793065537",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7be3b8n75"
+      },
+      "volume": "01"
+    },
+    "013": {
+      "title": "L’épreuve de la petite amie !!",
+      "last_updated": "1793064905",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45wn9xq45"
+      },
+      "volume": "01"
+    },
+    "013.1": {
+      "title": "Postface",
+      "last_updated": "1793061309",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ln6bzq4x"
+      },
+      "volume": "01"
+    }
+  }
+}
